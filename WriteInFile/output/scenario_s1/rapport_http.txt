@@ -1,0 +1,11 @@
+HTTP GET REQUEST
+=================
+
+URL : www.google.com
+
+-------------------
+
+Type: text/html
+
+--------------------
+

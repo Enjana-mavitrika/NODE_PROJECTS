@@ -1,0 +1,1 @@
+var files = [{href: 'output/scenario_s1/rapport_http.txt'}, {href: ''}, {href : 'output/scenario_s1/rapport_http.txt'} ];
